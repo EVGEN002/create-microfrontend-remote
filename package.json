@@ -1,0 +1,18 @@
+{
+  "name": "create-microfrontend-remote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^9.3.1",
+    "jsonfile": "^6.1.0"
+  },
+  "bin": {
+    "create-microfrontend-remote": "./index.js"
+  },
+  "type": "module",
+  "author": "Evgeny Portnyagin"
+}
